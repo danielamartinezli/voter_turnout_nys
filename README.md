@@ -1,4 +1,4 @@
-# voter_turnout_nys
+# Voter Turnout in New York State
 
 **Overview:**
 This project demonstrates a data analysis pipeline that performs Extract, Transform, Load (ETL) operations and advanced analysis on a hypothetical dataset related to voting demographics and electoral participation using Python.
